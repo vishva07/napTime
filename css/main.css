@@ -1,0 +1,22 @@
+body,head{
+	margin: 0;
+	border:0;
+	background-color: #fff;
+	font-family: 'Open Sans', sans-serif
+}
+h1{
+	font-family: 'Indie Flower', cursive;
+	font-weight:700;
+}
+header{
+	background-image: url("bg.jpg")
+	background-size:cover;
+	backface-visibility: 0.895;
+	background-repeat: no-repeat;
+}
+#id{
+	border-radius: 50%;
+	size: 400px;
+	margin: 10px;
+	
+}
